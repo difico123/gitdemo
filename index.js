@@ -1,3 +1,5 @@
-let hihihiih
+let hihihiih;
 
-let pâylak
+let pâylak;
+
+let b = 1;
