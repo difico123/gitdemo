@@ -1,5 +1,4 @@
 let hihihiih;
 
 let pâylak;
-
-let b = 1;
+let cc = 2;
